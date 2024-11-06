@@ -8,6 +8,10 @@
   "footer footer  footer";
 }
 
+body {
+  background-color: bisque;
+}
+
 #header {
   grid-area: header;
 }
